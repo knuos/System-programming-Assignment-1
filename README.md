@@ -1,4 +1,4 @@
-# Week 3 실습 — Process Management
+# 실습 1) — Process Management
 
 **26F 시스템프로그래밍특론 (Advanced System Programming)**
 경북대학교 대학원 전자전기공학부 · 담당: 이경운 (kwlee87@knu.ac.kr)
